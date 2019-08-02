@@ -1,0 +1,17 @@
+I have created the github centralised repository and have synced the repository with my local and pull the master branch to my local repository
+
+Need to create a github account by using URL github.com
+Sabareesh246
+Sabarish@123
+
+after that create a direcctory in local with the same repository name(git-github)
+then initialise the git
+git init
+
+after that we need to get the git hub repositroy to out local
+
+git remote add origin "URL of the repository"
+
+now we need to pull the brach to local
+
+git pull origin master
