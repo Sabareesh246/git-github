@@ -15,3 +15,19 @@ git remote add origin "URL of the repository"
 now we need to pull the brach to local
 
 git pull origin master
+
+it will get the details that are in the git hub and now we need to create a file and add the sample data in the file and then add the data and 
+do the commit and then push the file to the central repository
+
+git add .
+
+git status
+
+git commit -m "First Commit"
+
+git push origin master(It will ask the github login details then it will write the object to the repository and we can the changes under the 
+repository and we also the commit id in UI as well as from the git bash
+
+git log
+
+git log --author="Sabareesh Bilakanti"
