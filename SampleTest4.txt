@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 HI This is the new branch which we have created and just changing the file 
+=======
+HI 
+
+THIS IS THE DEVELPMENT WHICH I HAVE DONE AND I AM DOING IN THE BRANCH AND I WANTED TO PUSH THE CODE INTO THE MASTER BRANCH AND THE  PUSH TO THE GITHUB PROJECT
+>>>>>>> develop
