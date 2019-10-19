@@ -1,1 +1,2 @@
-HI This is the new branch which we have created and just changing the file 
+HI This is the new branch which we have created and just changing the file
+updateing the file and amerging to the properties file as required
