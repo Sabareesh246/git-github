@@ -31,3 +31,8 @@ repository and we also the commit id in UI as well as from the git bash
 git log
 
 git log --author="Sabareesh Bilakanti"
+
+
+git log -- since="2 days ago"
+
+git show commitID - it will display the commit details that are done for the file.
