@@ -1,0 +1,2 @@
+this is the smaples git to merge the document from the develop branch to the master branch
+
