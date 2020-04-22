@@ -4,3 +4,5 @@ this is the smaples git to merge the document from the develop branch to the mas
 
 
 This is the sample test to check the git diff -staged and git diff
+
+git diff
