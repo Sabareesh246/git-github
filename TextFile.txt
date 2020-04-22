@@ -1,0 +1,8 @@
+
+******************************************`:wq!
+
+JDBC code
+
+need to change the connection URL from ORacle to mysql
+
+---------------------------------
