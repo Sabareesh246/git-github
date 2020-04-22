@@ -1,0 +1,15 @@
+
+******************************************`:wq!
+
+JDBC code
+
+need to change the connection URL from ORacle to mysql
+
+---------------------------------
+
+
+hi 
+
+this is the txt file to learn about the reset commands soft and hard links and need to revert the cahnges untill that commit so that the entire data till that commit will be reverted.
+
+git reset --soft commitid
