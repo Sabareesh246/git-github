@@ -1,1 +1,4 @@
-hi thIS IS SOME Update`
+hi thIS IS SOME Update
+
+
+This is the sample automaticatic build process for the cahnges done and pushed to the git hub project`
